@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 #### about me:
 - yuque: https://www.yuque.com/ipenmanship
 - zhihu: https://www.zhihu.com/people/ipenmanship/posts
+- juejin: https://juejin.cn/user/1239904846876685/posts
