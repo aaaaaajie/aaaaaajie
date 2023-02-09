@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 [![aaaaaajie's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs?username=aaaaaajie&layout=compact)](https://camo.githubusercontent.com/9051a2535bd5675b85bd4d5cc8d02597494e26d0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6161616161616a6965)            
  
 #### about me:
-- zhihu: https://www.zhihu.com/people/ipenmanship/posts
-- juejin: https://juejin.cn/user/1239904846876685/posts
+- [Zhihu](https://www.zhihu.com/people/ipenmanship/posts)
+- [Blog](https://aaaaaajie.github.io/)
